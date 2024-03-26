@@ -1,5 +1,11 @@
 # Noriny Jullyana
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NorinyJullyana/NorinyJullyana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NorinyJullyana/NorinyJullyana/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NorinyJullyana/NorinyJullyana/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff75b7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noriny-jullyana/)  [![GitHub](https://img.shields.io/badge/GitHub-ff75b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NorinyJullyana) [![Gmail](https://img.shields.io/badge/Gmail-ff75b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:norinypessoa@gmail.com)
@@ -32,3 +38,4 @@
 ## Minhas contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NorinyJullyana&repo=dio-lab-open-source&bg_color=000&border_color=ff75b7&show_icons=true&icon_color=ff75b7&title_color=ff75b7&text_color=FFF)](https://github.com/NorinyJullyana/dio-lab-open-source)
+
