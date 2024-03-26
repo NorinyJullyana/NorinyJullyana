@@ -39,3 +39,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NorinyJullyana&repo=dio-lab-open-source&bg_color=000&border_color=ff75b7&show_icons=true&icon_color=ff75b7&title_color=ff75b7&text_color=FFF)](https://github.com/NorinyJullyana/dio-lab-open-source)
 
+<picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NorinyJullyana/NorinyJullyana/main/gif%20github.gif">
+</picture>
+
