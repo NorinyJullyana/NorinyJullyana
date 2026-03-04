@@ -12,6 +12,7 @@ e redução de complexidade operacional.
 - AWS
 - Docker
 - PostgreSQL
+- Rust
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/noriny-jullyana/
